@@ -2,11 +2,11 @@
 
 links: 
 
-https://www.nist.gov/cyberframework/cybersecurity-framework-faqs-framework-components
+[Подходы red&blue](https://csrc.nist.gov/glossary/term/red_team_blue_team_approach)
 
 
-https://about.gitlab.com/handbook/security/threat-management/red-team/purple-teaming/
+[Purple handbook](https://about.gitlab.com/handbook/security/threat-management/red-team/purple-teaming/)
 
 
-https://bayanbox.ir/view/150786458327805712/Purple-Team-Field-Manual.pdf
+[Purple Team Field Manual book](https://bayanbox.ir/view/150786458327805712/Purple-Team-Field-Manual.pdf)
 
