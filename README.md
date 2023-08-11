@@ -17,5 +17,17 @@ https://redteam.guide/
 
 ## SOC “for the little ones”
 
-https://github.com/mitre-attack/attack-navigator
+[MITRE attack navigator](https://github.com/mitre-attack/attack-navigator)
 
+## Execution sysmon
+
+[Sysmon](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon)
+
+## Processhollowing 
+
+[defender bypass](https://github.com/landigvt/defender-bypass)
+
+# tg 
+
+[maledictos](https://t.me/maledictos)
+[noesall](https://t.me/noesall)
