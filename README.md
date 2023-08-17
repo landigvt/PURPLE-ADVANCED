@@ -23,9 +23,23 @@ https://redteam.guide/
 
 [Sysmon](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon)
 
-## Processhollowing 
+## Process Hollowing 
+
+https://attack.mitre.org/techniques/T1093/
 
 [defender bypass](https://github.com/landigvt/defender-bypass)
+
+https://docs.microsoft.com/en-us/windows/win32/procthread/process-creation-flags
+
+https://docs.microsoft.com/en-us/windows/win32/api/processthreadsapi/nf-processthreadsapi-createprocessa
+
+https://learn.microsoft.com/en-us/windows/win32/api/memoryapi/nf-memoryapi-readprocessmemory
+
+https://learn.microsoft.com/en-us/windows/win32/procthread/zwqueryinformationprocess
+
+https://en.wikipedia.org/wiki/Process_Environment_Block
+
+https://en.wikipedia.org/wiki/Win32_Thread_Information_Block
 
 # tg 
 
