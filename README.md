@@ -1,5 +1,5 @@
-# offzone
 # PURPLE ADVANCED links
+
 ## The depth and breadth of each security assessment type 
 
 https://redteam.guide/
