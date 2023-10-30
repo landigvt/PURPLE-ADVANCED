@@ -1,4 +1,4 @@
-# PURPLE ADVANCED links
+# PURPLE ADVANCED
 
 ## The depth and breadth of each security assessment type 
 
